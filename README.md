@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 Pandas to analyze school district data
 
 ## Overview of the School District Analysis
@@ -8,6 +8,8 @@ We set out to replace inaccurate data for 9th graders at Thomas High School whil
 Many of the metrics remained the same due to removing a portion of data for 9th graders at Thomas High School. Removing this data did not drastically skew the district data in the aggregate but it did very slighly affect the aggregate scores for students at Thomas High School. The math and reading scores still averaged approximately 83% before and after scrubbing the data. 
 
 A surprising finding with spending by per capita spending found that the highest average student scores were attained by those schools in the lowest per capita spending bracket (<$584). Please see below:
+
+![](https://github.com/JonathanBrown003/School_District_Analysis/blob/aae9c42cd83848726c6a54154b36558cf291fbff/Resources/Spending_BySchool.PNG)
 
 We also found that charter schools had considerably better student scores across in the board in every category measured:
 
