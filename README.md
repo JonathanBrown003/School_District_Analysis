@@ -1,5 +1,7 @@
 # School District Analysis
-Pandas to analyze school district data
+Pandas to analyze school district data:
+
+![Challenge Code Here](https://github.com/JonathanBrown003/School_District_Analysis/blob/8d011869d4759d1e3d0747eebfc413e483313976/PyCitySchools_Challenge.ipynb)
 
 ## Overview of the School District Analysis
 We set out to replace inaccurate data for 9th graders at Thomas High School while also performing the same analysis we did during the module in looking at testing and grade data at various schools using Pandas. Factors that were taken into consideration while looking at the data include average math and reading scores, school budget, per capita spending per school, etc. We also looked at the total passing percentage of students along with their aggregate math and reading scores by school. 
