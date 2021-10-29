@@ -13,3 +13,4 @@ A surprising finding with spending by per capita spending found that the highest
 
 We also found that charter schools had considerably better student scores across in the board in every category measured:
 
+![](https://github.com/JonathanBrown003/School_District_Analysis/blob/803ea7ebaccfeeb229bec6d3ee73f2f49af23b5a/Resources/Charter_Schools.PNG)
