@@ -14,3 +14,6 @@ A surprising finding with spending by per capita spending found that the highest
 We also found that charter schools had considerably better student scores across in the board in every category measured:
 
 ![](https://github.com/JonathanBrown003/School_District_Analysis/blob/803ea7ebaccfeeb229bec6d3ee73f2f49af23b5a/Resources/Charter_Schools.PNG)
+
+## Summary
+Changes that occured as a result of 9th grade student scores at Thomas High School having their scores replaced with NaN include an entire grade of students not counted. This didn't affect the data much however as the average scores were still around 83% according to our analysis. The overall percentages for math and reading scores were marginally affected at Thomas High School. 
